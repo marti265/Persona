@@ -1,0 +1,19 @@
+﻿/*Email CSS file*/
+
+body {
+    width: 100%;
+    max-width: 1140px;
+    margin: auto;
+}
+
+#contact-form{
+    margin-right:40%;
+}
+
+.fform-group {
+    margin-left: 0%;
+}
+
+.eform-group {
+    margin-left: 17%;
+}

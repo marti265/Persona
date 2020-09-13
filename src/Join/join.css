@@ -1,0 +1,37 @@
+﻿/*Join CSS file*/
+body {
+    text-align:center;
+}
+
+h1 {
+    color: #0388C4;
+    font-size: 100px;
+}
+
+.nav-item [type=text]{
+    list-style-type: none;
+    width: 35%;
+    padding: 15px 20px;
+    margin: 5px 0;
+    font-size: 15px;
+}
+
+.nav-item [type=email] {
+    list-style-type: none;
+    width: 35%;
+    padding: 15px 20px;
+    margin: 5px 0;
+    font-size: 15px;
+}
+
+li {
+    list-style-type: none;
+}
+
+button {
+    text-decoration: none;
+    padding: 15px 32px;
+    width: 20%;
+    font-size: 15px;
+    border: none;
+}

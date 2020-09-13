@@ -1,0 +1,43 @@
+﻿/*Home CSS file*/
+body {
+    width:100%;
+    max-width:1140px;
+    margin:auto;
+}
+
+.logo {
+    text-align: left;
+    margin-left: 30px;
+    margin-right: 90px;
+    font-size: 25px;
+}
+
+.nav-link {
+    text-decoration:none;
+}
+
+.logout {
+    float: right;
+    margin-top: -50px;
+    margin-right: 30px;
+}
+
+.home {
+    background-color: #60BCE5;
+    width:20%;
+    height:25px;
+}
+
+.nav {
+    width: 20%;
+    height: 25px;
+}
+
+.options {
+    width: 120px;
+    height: 25px;
+}
+
+.wait {
+    margin-right:370px;
+}
